@@ -24,7 +24,7 @@ cloudstream {
 
     tvTypes = listOf("Movie")
 
-    requiresResources = true
+    
     language = "vi"
 
     // Random CC logo I found
